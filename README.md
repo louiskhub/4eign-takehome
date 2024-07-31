@@ -58,4 +58,4 @@ Please include a short README in which you:
 
 # Questions?
 
-For most things, just can just make assumptions. If there is anything really urgent, just [email me](mailto:l.kapp@4eign.de) :)
+For most things, you can just make assumptions. If there is anything really urgent, just [email me](mailto:l.kapp@4eign.de) :)
